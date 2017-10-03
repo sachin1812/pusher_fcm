@@ -43,6 +43,6 @@ response = fcm.send(device_token)
 
 # MIT License
 
-* Copyright (c) 2017 Vipin Kumar. See LICENSE.txt for details.
+* Copyright (c) 2017 Sachin Singh. See LICENSE.txt for details.
 
 # Thanks 
